@@ -211,7 +211,7 @@ public class U1A3_DaisyZhou extends javax.swing.JFrame {
                 } 
             }  
          
-        } catch (NumberFormatException iHateThis) {
+        } catch (NumberFormatException iHateThisEvenMore) {
             message.setText("Read the instructions and enter a positive number.");
         } finally {
              input.setText("");
